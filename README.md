@@ -1,7 +1,6 @@
 # tkinter-calculators
 Basic GUI calculators built using Python's Tkinter library. One provides separate buttons for each operation, while the other offers a more standard calculator interface.
 
-# tkinter-calculators
 
 This repository contains two simple graphical user interface (GUI) calculators created using Python's Tkinter library.
 
